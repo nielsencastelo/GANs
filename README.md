@@ -43,3 +43,13 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * GAN NLP
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
+## Etapas
+Gerador considera valores aleatórios para gerar uma 
+imagem
+* A imagem gerada é inserida no Discriminador junto a um 
+fluxo de imagens retiradas do conjunto de dados real 
+(para ele ter como referência)
+* O Discriminador retorna probabilidades da imagem 
+gerada ser real. O resultado é um número entre 0 (falso) 
+e 1 (autêntico)
+![Funcionamento básico](funcionamento_detalhes.png)
