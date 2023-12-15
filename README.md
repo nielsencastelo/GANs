@@ -44,8 +44,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
 ## Etapas
-Gerador considera valores aleatórios para gerar uma 
-imagem
+Gerador considera valores aleatórios para gerar uma imagem.
 ![Funcionamento básico](funcionamento_detalhes.png)
 * A imagem gerada é inserida no Discriminador junto a um 
 fluxo de imagens retiradas do conjunto de dados real 
