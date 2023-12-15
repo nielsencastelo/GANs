@@ -30,3 +30,14 @@ Transferência de estilo entre domínios
 Em cada notebook, discutiremos os princípios por trás da abordagem específica, treinaremos modelos GAN em conjuntos de dados relevantes, e demonstraremos os resultados obtidos.
 
 Esperamos que esta coleção sirva como um recurso útil para aqueles interessados em aprender mais sobre as muitas aplicações das GANs. Fique à vontade para nos contatar com quaisquer perguntas ou comentários!
+
+## Tipos de GANs
+* DCGANs (Deep Convolutional)
+* WGANs (Wasserstein) 
+* SRGANs (Super resolution)
+* Pix2Pix (Image-to-image)
+* CycleGAN (Cycle Generative) 
+* StackGAN (Stacked GAN)
+* ProGAN (Progressive Growing)
+* StyleGAN
+* GAN NLP
