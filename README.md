@@ -41,3 +41,5 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * ProGAN (Progressive Growing)
 * StyleGAN
 * GAN NLP
+## Funcionamento básico
+![Funcionamento básico](funcionamento_basico.png)
