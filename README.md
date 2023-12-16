@@ -45,6 +45,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * Autopipeline
 * Stable Diffusion
 * GAN Video
+* GAN Audio
 
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
