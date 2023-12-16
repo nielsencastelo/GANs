@@ -46,6 +46,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * Stable Diffusion
 * GAN Video
 * GAN Audio
+* Pixel Art
 
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
