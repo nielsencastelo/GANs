@@ -43,6 +43,8 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * GFP GAN
 * Face swap - GAN
 * Autopipeline
+* Stable Diffusion
+
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
 ## Etapas
