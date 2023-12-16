@@ -42,7 +42,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * Big GAN
 * GFP GAN
 * Face swap - GAN
-* GAN NLP
+* Autopipeline
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
 ## Etapas
