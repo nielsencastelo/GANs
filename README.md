@@ -44,6 +44,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * Face swap - GAN
 * Autopipeline
 * Stable Diffusion
+* GAN Video
 
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
