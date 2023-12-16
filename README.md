@@ -41,6 +41,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * ProGAN (Progressive Growing)
 * Big GAN
 * GFP GAN
+* Face swap - GAN
 * GAN NLP
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
