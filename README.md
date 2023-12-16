@@ -41,6 +41,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * ProGAN (Progressive Growing)
 * Big GAN
 * GFP GAN
+* ProGAN
 * Face swap - GAN
 * Autopipeline
 * Stable Diffusion
