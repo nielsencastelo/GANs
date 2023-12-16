@@ -39,7 +39,7 @@ Esperamos que esta coleção sirva como um recurso útil para aqueles interessad
 * CycleGAN (Cycle Generative) 
 * StackGAN (Stacked GAN)
 * ProGAN (Progressive Growing)
-* StyleGAN
+* BigGAN
 * GAN NLP
 ## Funcionamento básico
 ![Funcionamento básico](funcionamento_basico.png)
